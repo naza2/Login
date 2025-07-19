@@ -16,7 +16,7 @@ Un portal de administración basado en Angular que cuenta con autenticación de 
 - Control de sesión
 
 ### Explorador de Personajes de Rick & Morty
-![Explorador de Personajes]([https://placehold.co/600x400?text=Explorador+de+Rick+%26+Morty](https://github.com/naza2/Login_A/blob/bade628fb4319b69544ef968d0731e9d7ce59d86/Captura%20de%20pantalla%202025-07-18%20182949.png))
+![Explorador de Personajes](https://github.com/naza2/Login_A/blob/bade628fb4319b69544ef968d0731e9d7ce59d86/Captura%20de%20pantalla%202025-07-18%20182949.png)
 - Funcionalidad de búsqueda avanzada:
   - Filtrar por estado (Vivo, Muerto, Desconocido)
   - Filtrar por especie (Humano, Alienígena, etc.)
