@@ -1,6 +1,6 @@
 # Portal de Administración Angular con Explorador de Rick & Morty
 
-![Banner del Proyecto]([https://placehold.co/1920x500?text=Portal+de+Administraci%C3%B3n+Angular+con+Explorador+de+Rick+%26+Morty](https://github.com/naza2/Login_A/blob/bade628fb4319b69544ef968d0731e9d7ce59d86/Captura%20de%20pantalla%202025-07-18%20182714.png))
+![Banner del Proyecto](https://github.com/naza2/Login_A/blob/bade628fb4319b69544ef968d0731e9d7ce59d86/Captura%20de%20pantalla%202025-07-18%20182714.png)
 
 Un portal de administración basado en Angular que cuenta con autenticación de usuarios, gestión de perfiles y un extenso explorador de personajes de Rick y Morty. Esta aplicación se integra con una API externa para la autenticación de usuarios y la recuperación de datos de personajes.
 
@@ -11,7 +11,7 @@ Un portal de administración basado en Angular que cuenta con autenticación de 
 - Inicio de sesión seguro con autenticación basada en API
 
 ### Portal de Administración
-![Dashboard de Administración](https://placehold.co/600x400?text=Dashboard+de+Administraci%C3%B3n)
+![Dashboard de Administración](https://github.com/naza2/Login_A/blob/bade628fb4319b69544ef968d0731e9d7ce59d86/Captura%20de%20pantalla%202025-07-18%20182818.png)
 - Visualización del perfil del usuario
 - Control de sesión
 
