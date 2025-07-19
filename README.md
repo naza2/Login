@@ -26,12 +26,9 @@ Un portal de administración basado en Angular que cuenta con autenticación de 
 
 ## Tecnologías Utilizadas
 
-- **Framework Frontend**: Angular 14+
-- **Gestión de Estado**: NgRx (Opcional)
+- **Framework Frontend**: Angular
 - **Componentes UI**: Angular Material
-- **Cliente HTTP**: Angular HttpClient
 - **Enrutamiento**: Angular Router
 - **Autenticación**: JWT (JSON Web Tokens)
-- **Pruebas**: Jest/Karma (Opcional)
-- **Integración de API**: Observables de RxJS
+- **Integración de API**: https://api.escuelajs.co/api/v1/users
 
