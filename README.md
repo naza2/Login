@@ -32,3 +32,7 @@ Un portal de administración basado en Angular que cuenta con autenticación de 
 - **Autenticación**: JWT (JSON Web Tokens)
 - **Integración de API**: https://api.escuelajs.co/api/v1/users
 
+## Integrantes:
+- HERNANDEZ HERNANDEZ MARIA DE LOURDES
+- RAMIREZ CRUZ NAZARIO
+
